@@ -1,7 +1,7 @@
 package az.company.springboottesting.service;
 
 import az.company.springboottesting.exception.AlreadyExistsException;
-import az.company.springboottesting.model.Employee;
+import az.company.springboottesting.entity.Employee;
 import az.company.springboottesting.repository.EmployeeRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,6 +1,6 @@
 package az.company.springboottesting.service;
 
-import az.company.springboottesting.model.Employee;
+import az.company.springboottesting.entity.Employee;
 
 import java.util.List;
 import java.util.Optional;
